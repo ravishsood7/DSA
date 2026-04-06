@@ -1,0 +1,1 @@
+Notes and problems for Modified Binary Search pattern.

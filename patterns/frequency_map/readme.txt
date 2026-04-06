@@ -1,0 +1,1 @@
+Notes and problems for Frequency Map pattern.

@@ -1,0 +1,1 @@
+Notes and problems for Sliding Window pattern.

@@ -1,0 +1,1 @@
+Notes and problems for In-place Reversal pattern.

@@ -1,0 +1,1 @@
+Notes and problems for Palindromic Substring pattern.
